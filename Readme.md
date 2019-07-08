@@ -1,6 +1,6 @@
 # exm-site
 
-Homepage of Expression Media Digital Agency
+Next.js template for projects
 
 ## Development Environment Setup
 
